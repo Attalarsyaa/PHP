@@ -1,14 +1,13 @@
 <?php
 // Aturan SOAL
-/* 91-100 = A+ (Sangat Baik)
-   81-91 = A- (Sangat Baik)
-   71-81 = A (Sangat Baik)
-   61-71 = B (Sangat Baik)
-   51-61 = B- (Sangat Baik)
-   41-51 = C (Sangat Baik)
-   31-41 = C- (Sangat Baik)
-   21-31 = D (Sangat Baik)
-   0-21 = D- (Sangat Baik)
+/* 91-100 = A+ 
+   81-91 = A- 
+   71-81 = A 
+   51-61 = B- 
+   41-51 = C 
+   31-41 = C- 
+   21-31 = D 
+   0-21 = D- 
 ******************************/
 $nilai = 10;
 if ($nilai >= 91 AND  $nilai <=100) {
